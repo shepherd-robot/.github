@@ -2,9 +2,7 @@
 
 ## Supporting Extensive Livestock Farming with the use of Autonomous Intelligent Robots 
 
-
-
-![SELF_AIR_logo drawio](https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/robotics_wolf_minimal.png)
+<img src="https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/robotics_wolf_minimal.png" alt= "SELF_AIR_logo" width="50%" height="50%">
 
 
 Grant TED2021-132356B-I00 funded by MCIN/AEI/10.13039/501100011033 and by the “European Union NextGenerationEU/PRTR"
