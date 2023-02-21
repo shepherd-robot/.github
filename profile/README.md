@@ -4,12 +4,12 @@
 
 
 
-![SELF_AIR_logo drawio](https://github.com/SELF-AIR-PROJECT/.github/blob/0301e1f38bdecd816c35861edbb514054ae0b517/profile/robotics_wolf_minimal.png)
+![SELF_AIR_logo drawio](https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/robotics_wolf_minimal.png)
 
 
 Grant TED2021-132356B-I00 funded by MCIN/AEI/10.13039/501100011033 and by the “European Union NextGenerationEU/PRTR"
 
-![SELF_AIR_EU eu_logo](https://github.com/SELF-AIR-PROJECT/.github/blob/0301e1f38bdecd816c35861edbb514054ae0b517/profile/micin-financiadoUEnextgeneration-prtr-aei.png)
+![SELF_AIR_EU eu_logo](https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/micin-financiadoUEnextgeneration-prtr-aei.png)
 
 
 <!--
